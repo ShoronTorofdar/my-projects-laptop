@@ -1,0 +1,9 @@
+body{
+  margin: 0px;
+}
+
+/* nav section */
+nav > div > div img{
+  width: 392px;
+  height: 40px;
+} 
